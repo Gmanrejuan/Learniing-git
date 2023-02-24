@@ -1,10 +1,14 @@
-#include<bits/stdc++.h>
+#nclude<bits/stdc++.h>
 
 using namespace std;
 
 #define fork(i, n) for(int i = 0; i < (int)n; i++)
 
 #define pb push_back
+
+#define N LLONG_MAX
+
+#define minn LLONG_MIN
 
 #define all(ara) ara.begin(), ara.end()
 
